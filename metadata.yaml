@@ -2,6 +2,9 @@ _repo: Nick-Carter-Stories-No-124-January-23-1915-The-girl-kidnaper-or-Nick-Cart
 _version: 0.1.0
 alternative_title: 'Nick Carter Stories No. 124, January 23, 1915: The girl kidnapper;
   or, Nick Carter''s up-to-date clew.'
+covers:
+- cover_type: archival
+  image_path: 69385-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Carter, Nicholas (House name)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '54736'
     url: http://www.gutenberg.org/2009/agents/54736
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69385#Nick-Carter-Stories-No-124-January-23-1915-The-girl-kidnaper-or-Nick-Carter-s-up-to-date-clew
 gutenberg_issued: '2022-11-19'
 identifiers:
   gutenberg: '69385'
